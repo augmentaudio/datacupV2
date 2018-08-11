@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Cup of Data`,
-    author: `Cup of Data Team`,
-    authorLink: `https://github.com/cupofdata`,
+    title: `Data Cup`,
+    author: `Data Cup Team`,
+    authorLink: `https://github.com/augmentaudio/datacup`,
   },
   plugins: [
     {

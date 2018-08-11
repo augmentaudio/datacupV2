@@ -1,3 +1,5 @@
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 import React from 'react'
 import { Container } from '../Layout'
 import { H2, H6, P } from '../Typography'

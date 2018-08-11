@@ -132,7 +132,7 @@ export default function ContactSection({ data }) {
           <SpCol xs="6" sm="3">
             <ContactUs>CONTACT US</ContactUs>
             <Address>
-              Cup of Data
+              Data Cup
               <br />3423 Piedmont Rd NE<br />
               Atlanta, GA 30305
             </Address>

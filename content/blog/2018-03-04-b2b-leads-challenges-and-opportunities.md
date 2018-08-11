@@ -9,7 +9,7 @@ summary: >-
   Based Marketing initiatives. SaaS B2B companies, in particular, need to
   consider many attributes when identifying leads that have the right 'fit' and
   'behavior' information.
-author: The Cup of Data Team
+author: The Data Cup Team
 postimage: /files/images/don_datanerd.gif
 newsFlag: false
 tags:
@@ -87,4 +87,4 @@ The sales rep that is able to offer the best message and get to the potential cu
 
 Would you like to know more? **Contact us today to schedule a demo!**
 
-[![](/files/images/button_schedule-a-demo.png)](https://www.cupofdata.com/onboard?utm_source=blog&utm_medium=cta&utm_campaign=demo)
+[![](/files/images/button_schedule-a-demo.png)](https://www.datacup.net/onboard?utm_source=blog&utm_medium=cta&utm_campaign=demo)

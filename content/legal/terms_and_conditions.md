@@ -3,16 +3,16 @@ contentType: legal
 path: /terms
 title: Terms and Conditions
 summary: >-
-  Welcome to www.cupofdata.com. 3Blades, LLC, a Georgia limited liability
-  company (“Cup of Data”; also identified by “we” or “us” or “our”) has issued
+  Welcome to www.datacup.net. 3Blades, LLC, a Georgia limited liability
+  company (“Data Cup”; also identified by “we” or “us” or “our”) has issued
   these terms and conditions that apply to the use of this website and any other
-  websites that Cup of Data or its subsidiaries operate and that link to these
+  websites that Data Cup or its subsidiaries operate and that link to these
   Terms of Use (the “Websites”).
 ---
 
 ## AGREEMENT TO TERMS
  
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and 3Blades LLC DBA Cup of Data (“we,” “us” or “our”), concerning your access to and use of the https://www.cupofdata.com website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and 3Blades LLC DBA Data Cup (“we,” “us” or “our”), concerning your access to and use of the https://www.datacup.net website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
  
 Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of these Terms of Use, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms of Use to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted.  
  
@@ -113,7 +113,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Site for viola
  
 ## PRIVACY POLICY
 
-We care about data privacy and security. Please review our Privacy Policy: https://www.cupofdata.com/privacy. By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use. Please be advised the Site is hosted in the United States. If you access the Site from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.  Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical. 
+We care about data privacy and security. Please review our Privacy Policy: https://www.datacup.net/privacy. By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use. Please be advised the Site is hosted in the United States. If you access the Site from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.  Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical. 
  
 ## DIGITAL MILLENNIUM COPYRIGHT ACT (DMCA) NOTICE AND POLICY
  
@@ -134,7 +134,7 @@ Greg Werner
 Attn: Copyright Agent
 3423 Piedmont Rd NE
 Atlanta, GA 30305
-legal@cupofdata.com
+legal@datacup.net
  
 ## TERM AND TERMINATION
  
@@ -210,8 +210,8 @@ These Terms of Use and any policies or operating rules posted by us on the Site 
  
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: 
  
-3Blades LLC DBA Cup of Data     
+3Blades LLC DBA Data Cup     
 3423 Piedmont Rd NE     
 Atlanta, GA 30305    
 Phone: (404) 665 - 3610
-contact@cupofdata.com
+contact@datacup.net

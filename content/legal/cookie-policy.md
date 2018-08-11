@@ -3,21 +3,21 @@ contentType: legal
 path: /cookies
 title: Cookie Policy
 summary: >-
-  This Cookie Policy explains how 3Blades LLC DBA Cup of Data ("Cup of Data",
+  This Cookie Policy explains how 3Blades LLC DBA Data Cup ("Data Cup",
   "we", "us", and "ours") use cookies and similar technologies to recognize you
-  when you visit our websites at https://www.cupofdata.com, ("Websites"). It
+  when you visit our websites at https://www.datacup.net, ("Websites"). It
   explains what these technologies are and why we use them, as well as your
   rights to control our use of them.
 ---
-This Cookie Policy explains how 3Blades LLC DBA Cup of Data ("Cup of Data", "we", "us", and "ours") use cookies and similar technologies to recognize you when you visit our websites at https://www.cupofdata.com, ("Websites"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.  
+This Cookie Policy explains how 3Blades LLC DBA Data Cup ("Data Cup", "we", "us", and "ours") use cookies and similar technologies to recognize you when you visit our websites at https://www.datacup.net, ("Websites"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.  
 
-In some cases we may use cookies to collect personal information, or that becomes personal information if we combine it with other information. In such cases our Privacy Policy (https://www.cupofdata.com/privacy) will apply in addition to this Cookie Policy.    
+In some cases we may use cookies to collect personal information, or that becomes personal information if we combine it with other information. In such cases our Privacy Policy (https://www.datacup.net/privacy) will apply in addition to this Cookie Policy.    
 
 ## What are cookies?  
 
 Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information. 
 
-Cookies set by the website owner (in this case, Cup of Data) are called "first party cookies". Cookies set by parties other than the website owner are called "third party cookies". Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, interactive content and analytics). The parties that set these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites. 
+Cookies set by the website owner (in this case, Data Cup) are called "first party cookies". Cookies set by parties other than the website owner are called "third party cookies". Third party cookies enable third party features or functionality to be provided on or through the website (e.g. like advertising, interactive content and analytics). The parties that set these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites. 
 
 ## Why do we use cookies?  
 
@@ -33,7 +33,7 @@ Who serves these cookies:
 
 | Cookie provider | Website URL | How to refuse |
 |---|---|---|
-| 3Blades LLC DBA Cup of Data | https://www.cupofdata.com | To refuse these cookies, please follow the instructions below under the heading "How can I control cookies? ". |          
+| 3Blades LLC DBA Data Cup | https://www.datacup.net | To refuse these cookies, please follow the instructions below under the heading "How can I control cookies? ". |          
 
 ### Analytics and customization cookies:   
 
@@ -103,10 +103,10 @@ The date at the top of this Cookie Policy indicates when it was last updated.
 
 ## Where can I get further information?   
 
-If you have any questions about our use of cookies or other technologies, please email us at contact@cupofdata.com or by post to:   
+If you have any questions about our use of cookies or other technologies, please email us at contact@datacup.net or by post to:   
 
 ```
-3Blades LLC DBA Cup of Data  
+3Blades LLC DBA Data Cup  
 3423 Piedmont Rd NE  
 Atlanta, GA 30305
 ```

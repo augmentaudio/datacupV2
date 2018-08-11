@@ -4,20 +4,20 @@ path: /privacy
 title: Privacy Policy
 summary: >-
   Protecting your private information is our priority. This Statement of Privacy
-  of 3Blades, LLC, a Georgia limited liability company (“Cup of Data”), applies
-  to the www.cupofdata.com website and governs data collection and usage. The
-  Cup of Data website is an e-commerce site. By using the Cup of Data website,
+  of 3Blades, LLC, a Georgia limited liability company (“Data Cup”), applies
+  to the www.datacup.net website and governs data collection and usage. The
+  Data Cup website is an e-commerce site. By using the Data Cup website,
   you consent to the data practices described in this statement.
 ---
 ## Privacy Policy
 
 Effective date: May 24, 2018
 
-Thank you for choosing to be part of our community at 3Blades LLC DBA Cup of Data (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at contact@3blades.io.
+Thank you for choosing to be part of our community at 3Blades LLC DBA Data Cup (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at contact@3blades.io.
 
-When you visit our website https://www.cupofdata.com, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites and our services.
+When you visit our website https://www.datacup.net, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy policy. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites and our services.
 
-This privacy policy applies to all information collected through our website (such as https://www.cupofdata.com), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "Sites"). 
+This privacy policy applies to all information collected through our website (such as https://www.datacup.net), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "Sites"). 
 
 Please read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us. 
 
@@ -25,7 +25,7 @@ Please read this privacy policy carefully as it will help you make informed deci
 
   * **Service**
 
-    Service is the [https://www.cupofdata.com](https://www.cupofdata.com) website operated by 3Blades LLC
+    Service is the [https://www.datacup.net](https://www.datacup.net) website operated by 3Blades LLC
 
   * **Personal Data**
 
@@ -291,7 +291,7 @@ purpose.
 
 #### Cookies
 
-We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our [Cookie Policy](https://www.cupofdata.com/cookies).  
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our [Cookie Policy](https://www.datacup.net/cookies).  
 
 #### Analytics  
 
@@ -429,6 +429,6 @@ page.
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: hello@cupofdata.com
+  * By email: hello@datacup.net
   * By mail: 3423 Piedmont Rd NE Atlanta, GA 30305, United States
 

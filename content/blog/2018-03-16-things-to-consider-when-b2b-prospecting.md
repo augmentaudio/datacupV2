@@ -9,7 +9,7 @@ summary: >-
   improve over time. B2B lead generation is a process and selecting the right
   combination of resources will help build efficient B2B lead generation
   processes over time.
-author: The Cup of Data Team
+author: The Data Cup Team
 postimage: /files/images/process_chart.gif
 newsFlag: false
 tags:
@@ -29,7 +29,7 @@ tags:
 
 The ultimate goal for any firm is to increase deal size, improve deal velocity, and improve conversion rates. All marketing and sales efforts should focus on measuring and improving these three pillars. Companies need to focus on the best possible leads otherwise sales organizations will spend time on unproductive activities.  
 
-[This article offers more detail](https://www.cupofdata.com/blog/b2b-leads-challenges-and-opportunities) about the costs and some of the complexities when dealing with B2B leads. It’s worth mentioning that any good B2B lead generation strategy needs to be based on a set of processes. Specific tools or independent solutions from third party vendors or managed service companies are important, but the process is even more so. These lead generation processes need testing and maintenance to ensure iterative improvements over time.
+[This article offers more detail](https://www.datacup.net/blog/b2b-leads-challenges-and-opportunities) about the costs and some of the complexities when dealing with B2B leads. It’s worth mentioning that any good B2B lead generation strategy needs to be based on a set of processes. Specific tools or independent solutions from third party vendors or managed service companies are important, but the process is even more so. These lead generation processes need testing and maintenance to ensure iterative improvements over time.
 
 ## The Sales and Marketing Pillars
 
@@ -49,7 +49,7 @@ In the B2B world, **leads are associated to accounts**. Leads and their associat
 
 This is due to the fact that in the B2B world decisions are made in many cases by committees, not just one person within the account. It’s safe to assume that B2B leads are more expensive to obtain and convert, simply for the reason that vendors must acquire, nurture, and engage multiple contacts for one sale.
 
-Generally speaking, B2B companies structure a mix of inbound marketing and account based marketing (ABM) campaigns, such as with content marketing or search, to identify [IQLs, MQLs, and SQLs](https://www.cupofdata.com/blog/b2b-leads-challenges-and-opportunities). Selecting which accounts and contacts to target before hand is known as Account Based Marketing (ABM). This allows companies to structure targeted campaigns at specific accounts and contacts within those accounts, which in theory improves conversion rates.
+Generally speaking, B2B companies structure a mix of inbound marketing and account based marketing (ABM) campaigns, such as with content marketing or search, to identify [IQLs, MQLs, and SQLs](https://www.datacup.net/blog/b2b-leads-challenges-and-opportunities). Selecting which accounts and contacts to target before hand is known as Account Based Marketing (ABM). This allows companies to structure targeted campaigns at specific accounts and contacts within those accounts, which in theory improves conversion rates.
 
 ## Leads with Account Propensity Scores (APS)
 
@@ -81,4 +81,4 @@ Leading organizations have automated the B2B sales process as much as possible t
 
 Would you like to know more? **Contact us today to schedule a demo!**
 
-[![](/files/images/button_schedule-a-demo.png)](https://www.cupofdata.com/onboard?utm_source=blog&utm_medium=cta&utm_campaign=demo)
+[![](/files/images/button_schedule-a-demo.png)](https://www.datacup.net/onboard?utm_source=blog&utm_medium=cta&utm_campaign=demo)

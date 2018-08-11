@@ -1,6 +1,6 @@
 {
-  "name": "cupofdata.com",
-  "description": "The code base for cupofdata.com",
+  "name": "datacup.net",
+  "description": "The code base for datacup.net",
   "version": "1.0.0",
   "dependencies": {
     "babel-plugin-styled-components": "^1.5.1",

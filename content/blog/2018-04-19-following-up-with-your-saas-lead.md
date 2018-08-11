@@ -47,7 +47,7 @@ The best days to call your **SaaS leads are on Wednesdays and Thursdays, 5 minut
 
 What to remember: Emails are important for a first touch point with the lead and the phone calls are key to close the deal.  
 
-![Cup of Data - Blog](/files/images/cod_blog_saas_leads.png)
+![Data Cup - Blog](/files/images/cod_blog_saas_leads.png)
 
 ## Okay you get emails but what if…
 
@@ -59,4 +59,4 @@ To wrap things up… remember leads are real people just like you. Avoid the gen
 
 Would you like to know more? **Contact us today to schedule a demo!**
 
-[![](/files/images/button_schedule-a-demo.png)](https://www.cupofdata.com/onboard?utm_source=blog&utm_medium=cta&utm_campaign=demo)
+[![](/files/images/button_schedule-a-demo.png)](https://www.datacup.net/onboard?utm_source=blog&utm_medium=cta&utm_campaign=demo)

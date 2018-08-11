@@ -4,7 +4,7 @@ path: /blog/three-lead-generation-mistakes-according-to-experts
 title: The 3 Mistakes You’re Making In Lead Generation According to the Experts
 date: '2018-05-01T10:13:28-04:00'
 summary: >-
-  Cup of Data launches Conversion Data Pop Up to help B2B Sales and Marketing
+  Data Cup launches Conversion Data Pop Up to help B2B Sales and Marketing
   professionals understand best practices for B2B lead management and use data
   science to obtain better results.
 author: Timara Frassrand
@@ -20,7 +20,7 @@ tags:
 
 In the B2B industry, conversions are used on a daily basis to define campaign goals and to ultimately lead to improved marketing ROI and sales, whether that comes from new customers, improved existing customer retention, or helping to move customers up the value chain with other products and services.
 
-As an ABM solution company, here at Cup of Data, we are constantly innovating to improve our services and to provide the best solutions to assist in lead generation for our client’s conversion goals. Recently, we decided to turn our passion into a one-day forum bringing together B2B marketing and sales professionals and data scientists to hold sessions at the [Conversion Data Pop Up](https://conversiondatapopup.cupofdata.com/?utm_source=blog&utm_medium=CTA&utm_campaign=Conversion%20Data%20PopUp) in Atlanta on May 22nd.
+As an ABM solution company, here at Data Cup, we are constantly innovating to improve our services and to provide the best solutions to assist in lead generation for our client’s conversion goals. Recently, we decided to turn our passion into a one-day forum bringing together B2B marketing and sales professionals and data scientists to hold sessions at the [Conversion Data Pop Up](https://conversiondatapopup.datacup.net/?utm_source=blog&utm_medium=CTA&utm_campaign=Conversion%20Data%20PopUp) in Atlanta on May 22nd.
 
 We’ve lined up the most prominent experts in the B2B sales and marketing space to share use cases and techniques and, most importantly, insights on how they are utilizing machine learning and AI to improve their conversions. 
 
@@ -60,9 +60,9 @@ Matsushita explains these successes of high sales and revenue by giving an examp
 
 When it comes down to it, in order to be a winning and successful company, "be intentional, look at the data, apply your ‘wins’ to what looks like your wins and scale your success for faster larger wins, and learn where and how to pivot.  Too many companies do a Win/Loss analysis too late when the losses immediately surface ‘bad fit’ which could have been avoided in effort from the beginning" (Nelson). When a company can “Funnel optimism,” as stated by Gassmann, they are able to obtain these achievements  and collect the necessary data to do so. 
 
-While the marketing and sales fields are constantly evolving, it’s best to make sure that you better focus your lead funnels, come up with and commit to a sales strategy and that you collect and use your customer data to complement the other two. And not to sound self-serving but that’s what we do at Cup of Data! It’s what we’re best at.
+While the marketing and sales fields are constantly evolving, it’s best to make sure that you better focus your lead funnels, come up with and commit to a sales strategy and that you collect and use your customer data to complement the other two. And not to sound self-serving but that’s what we do at Data Cup! It’s what we’re best at.
 
-Curious about what else the experts have to say about conversions and B2B marketing and sales practices? Find them all together at their sessions during [Conversion Data Pop Up](https://conversiondatapopup.cupofdata.com/?utm_source=blog&utm_medium=CTA&utm_campaign=Conversion%20Data%20PopUp) in Atlanta, May 22nd.
+Curious about what else the experts have to say about conversions and B2B marketing and sales practices? Find them all together at their sessions during [Conversion Data Pop Up](https://conversiondatapopup.datacup.net/?utm_source=blog&utm_medium=CTA&utm_campaign=Conversion%20Data%20PopUp) in Atlanta, May 22nd.
 
 - - -
 

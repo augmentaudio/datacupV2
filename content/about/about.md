@@ -19,4 +19,4 @@ members:
     photo: /files/images/timara.png
     position: Sales
 ---
-Cup of Data is led by a team of marketers and engineers with over 20+ years experience with machine learning, deep learning, and marketing automation solutions.
+Data Cup is led by a team of marketers and engineers with over 20+ years experience with machine learning, deep learning, and marketing automation solutions.
