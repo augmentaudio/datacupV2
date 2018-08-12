@@ -233,8 +233,8 @@ export default class NavContainer extends React.Component {
               </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink to="/onboard" onClick={this.moveTo}>
-                Early Access
+              <NavLink to="/admin" onClick={this.moveTo}>
+                Login
               </NavLink>
             </NavItem>
           </NavWrapper>
