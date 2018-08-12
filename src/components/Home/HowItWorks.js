@@ -68,7 +68,7 @@ const HowItWorks = () => (
         <VideoCol sm={10} md={8}>
           <ResponsiveVideo>
             <iframe
-              src="https://player.vimeo.com/video/284538637"
+              src="https://player.vimeo.com/video/284585734"
               width="640"
               height="360"
               frameBorder="0"
