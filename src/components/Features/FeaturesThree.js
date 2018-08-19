@@ -10,6 +10,9 @@ const Wrapper = styled.div`
   background: #ffffff;
   padding-top: 20px;
   padding-bottom: 20px;
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    padding-bottom: 180px;
+  }
 `
 
 const Content = Container.extend`
@@ -56,6 +59,9 @@ const ImgCol = Col.extend`
   @media screen and (max-width: 490px) {
     height: 90vw;
   }
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    right: 0px;
+  }
 `
 
 const ContentCol = Col.extend`
@@ -64,6 +70,9 @@ const ContentCol = Col.extend`
   @media screen and (max-width: 767px) {
     margin-left: 0;
     left: 0;
+  }
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    left: -400px;
   }
 `
 

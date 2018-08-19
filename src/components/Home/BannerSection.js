@@ -57,7 +57,7 @@ const BannerContainer = Container.extend`
 const PersonaContainer = styled.div`
   position: absolute;
   bottom: -7px;
-  right: 0;
+  right: 0px;
   display: flex;
   width: 570px;
   justify-content: space-between;
@@ -65,6 +65,9 @@ const PersonaContainer = styled.div`
     width: fit-content;
     left: 50%;
     transform: translateX(-50%);
+  }
+  @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    right: 150px;
   }
 `
 
