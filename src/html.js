@@ -31,7 +31,6 @@ module.exports = class HTML extends React.Component {
           />
           {this.props.headComponents}
           {css}
-          <script src="https://cdn.polyfill.io/v2/polyfill.js?features=default,Symbol"></script>
         </head>
         <body {...this.props.bodyAttributes}>
           {this.props.preBodyComponents}
