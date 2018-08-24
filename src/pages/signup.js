@@ -3,7 +3,7 @@ import Helmet from 'react-helmet'
 import styled from 'styled-components'
 import Button from '../components/Button'
 import { H1, H3, P } from '../components/Typography'
-import { push } from "gatsby-link"
+import { push } from 'gatsby-link'
 
 const Wrapper = styled.div`
   background-size: cover;
@@ -96,10 +96,11 @@ const SignupPage = () => (
             <div className="inner">
             <Formwrap>
                   <Subtext>When you want to save time on finding leads, this is the way to go...</Subtext>
-                  <form name="signup" action="https://formspree.io/jonportelli@gmail.com" method="POST">
+                  <form name="signup" action="https://formspree.io/xnveqjkx" method="POST">
                     <Fieldinline>
                           <Fieldlabel>Email</Fieldlabel>
                           <input type="text" name="email" id="email"/>
+                          <input type="hidden" name="_next" value="/thanks" />
                     <ul className="actions">
                           <div onClick={ () => push('/blog')}>
                           <SignupButton>Start Your Free 30-Day Trial</SignupButton>
@@ -108,6 +109,7 @@ const SignupPage = () => (
                     </ul>
                   </Fieldinline>
                   </form>
+
             </Formwrap>
             </div>
         </section>
