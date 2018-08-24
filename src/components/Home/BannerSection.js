@@ -236,7 +236,7 @@ const BannerSection = data => {
             </BannerSubTitle>
           ))}
           {homeBanner.map((item, i) => (
-            <Link to="#" key={i}>
+            <Link to="signup" key={i}>
               <Button>{item.node.frontmatter.button}</Button>
             </Link>
           ))}
