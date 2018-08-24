@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import styled from 'styled-components'
 import Button from '../components/Button'
-import { H3, P } from '../components/Typography'
+import { H1, H3, P } from '../components/Typography'
 import { push } from "gatsby-link"
 
 const Wrapper = styled.div`
@@ -20,6 +20,11 @@ const Wrapper = styled.div`
     height: 680px;
   }
 `
+
+const Title = H1.extend`
+  margin-top: 91px;
+`
+
 const Fieldinline = styled.div`
 display: inline;
 `
@@ -79,7 +84,7 @@ const SignupPage = () => (
 
         <div id="main" className="alt" padding="100px">
         <div>
-          <h1 className="contents"> Get Quality Leads. Instantly.</h1>
+          <Title>Get Quality Leads. Instantly.</Title>
         </div>
             <section id="one">
                 <div className="inner">
