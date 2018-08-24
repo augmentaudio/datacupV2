@@ -1,9 +1,9 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import styled from 'styled-components'
-import Link from 'gatsby-link'
 import Button from '../components/Button'
-import { P } from '../components/Typography'
+import { H3, P } from '../components/Typography'
+import { push } from "gatsby-link"
 
 const Wrapper = styled.div`
   background-size: cover;
@@ -19,6 +19,17 @@ const Wrapper = styled.div`
     margin-top: 70px;
     height: 680px;
   }
+`
+const Fieldinline = styled.div`
+display: inline;
+`
+
+const Subtext = H3.extend`
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 600;
+  margin-bottom: 2.5rem;
+  letter-spacing: 0.1em;
 `
 
 const SignupButton = Button.extend`
@@ -73,30 +84,23 @@ const SignupPage = () => (
             <section id="one">
                 <div className="inner">
                 <Formwrap>
-                        <h2>Generic</h2>
+                        <Subtext>When you want to call time on finding leads, this is the way to go</Subtext>
+
 
                       <form name="signup" action="https://formspree.io/jonportelli@gmail.com"
       method="POST">
-
-                        <div className="field">
+                        <Fieldinline>
                             <Fieldlabel>Email</Fieldlabel>
                           <input type="text" name="email" id="email" />
 
-                        </div>
 
                         <ul className="actions">
-                            <SignupButton><li><input type="submit" value="Send Message" className="SignupButton>" /></li></SignupButton>
+                           <div onClick={ () => push('/blog')}>
+                              <SignupButton>Start Your Free 30-Day Trial</SignupButton>
+                            </div>
 
-                            <Link to="#">
-                              <SignupButton>Sign me up</SignupButton>
-                            </Link>
-
-                            <li><input type="reset" value="Clear" /> </li>
-                            <Link to="/">
-                              <SignupButton>Cancel</SignupButton>
-                            </Link>
                         </ul>
-
+                      </Fieldinline>
                       </form>
                 </Formwrap>
                 </div>

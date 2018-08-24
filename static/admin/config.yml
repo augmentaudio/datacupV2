@@ -27,24 +27,6 @@ collections:
           - {label: Fullname, name: fullname, widget: string}
           - {label: Position, name: position, widget: string}
 
-- name: "onboard"
-  label: "Onboarding"
-  folder: "content/onboard"
-  create: true
-  slug: "{{slug}}"
-  fields:
-    - {label: "Content Type", name: "contentType", widget: "hidden", default: "Onboarding"}
-    - {label: "Path", name: "path", widget: "hidden", default: "/onboard"}
-    - {label: "Title", name: "title", widget: "string"}
-    - {label: "Body", name: "body", widget: "markdown"}
-    - label: Members
-      name: members
-      widget: list
-      fields:
-        - {label: Photo, name: photo, widget: image }
-        - {label: Fullname, name: fullname, widget: string}
-        - {label: Position, name: position, widget: string}
-
   - name: "automatedmarketing"
     label: "AutomatedMarketing"
     folder: "content/automatedmarketing"
