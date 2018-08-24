@@ -23,6 +23,7 @@ const Wrapper = styled.div`
 
 const Title = H1.extend`
   margin-top: 91px;
+  text-align: center;
 `
 
 const Fieldinline = styled.div`
