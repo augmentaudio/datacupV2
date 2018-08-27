@@ -83,7 +83,7 @@ export default class AutomatedMarketingSection extends React.Component {
             {title}
           </AutomatedMarketingSectionTitle>
           <Content>{content}</Content>
-          <Link to="/beta">
+          <Link to="/signup">
             <RegButton className="py-0 px-5 border-0">
               {automatedMarketingButton}
             </RegButton>
